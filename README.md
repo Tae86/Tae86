@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Kim%20Tae%20Hwan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20%C2%B7%20On-device%20AI%20%C2%B7%20FPGA&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Kim%20Tae%20Hwan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20%C2%B7%20On-device%20AI%20%C2%B7%20FPGA&descAlignY=60&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=STM32+%2B+Qt+%EC%B0%A8%EB%9F%89+HMI+%EC%8B%9C%EC%8A%A4%ED%85%9C;Jetson+%2B+PatchCore+PCB+%EB%B6%88%EB%9F%89+%ED%83%90%EC%A7%80;Verilog+FPGA+%EC%84%A4%EA%B3%84;%EB%A0%88%EC%A7%80%EC%8A%A4%ED%84%B0+%EB%A0%88%EB%B2%A8+%ED%8E%A8%EC%9B%A8%EC%96%B4+%EA%B0%9C%EB%B0%9C)](https://github.com/Tae86)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=STM32+%2B+Qt+%EC%B0%A8%EB%9F%89+HMI+%EC%8B%9C%EC%8A%A4%ED%85%9C;Jetson+%2B+PatchCore+PCB+%EB%B6%88%EB%9F%89+%ED%83%90%EC%A7%80;Linux+%EC%BB%A4%EB%84%90+%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4+%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84;AVR+%EC%B4%88%EC%9D%8C%ED%8C%8C+%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%EC%B0%A8;Verilog+FPGA+%EC%84%A4%EA%B3%84;%EB%A0%88%EC%A7%80%EC%8A%A4%ED%84%B0+%EB%A0%88%EB%B2%A8+%ED%8E%8C%EC%9B%A8%EC%96%B4+%EA%B0%9C%EB%B0%9C)](https://github.com/Tae86)
 </div>
 
 ## 👋 About Me
