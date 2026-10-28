@@ -45,6 +45,8 @@
 | 🏁 | **[F1 Reaction Game](https://github.com/Tae86/stm32-f1-reaction-game)** | EXTI·타이머·SPI 확장 LED로 만든 반응속도 게임 |
 | ⏱️ | **[FPGA Stopwatch](https://github.com/Tae86/fpga-minsec-stopwatch)** | Basys3 FSM 설계 · self-checking test bench 26항목 통과 |
 | ⚙️ | **[DC Motor Controller](https://github.com/Tae86/stm32-motor-project)** | H-Bridge + 20kHz PWM · 숏/롱클릭 상태 제어 |
+| 🚙 | **[AVR Autonomous Car](https://github.com/Tae86/avr-ultrasonic-autonomous-car)** | ATmega128 · 초음파 3채널 장애물 회피 · 블루투스 수동/자율 모드 |
+| 🌀 | **[Linux Smart Fan](https://github.com/Tae86/linux-jetson-smart-fan)** | Jetson 커널 드라이버 7종 연동 · 제가 맡은 BMP180(I2C)·LED BAR 드라이버 |
 
 ## 📊 GitHub Stats
 
