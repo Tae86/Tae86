@@ -1,39 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Kim%20Tae%20Hwan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20%C2%B7%20On-device%20AI%20%C2%B7%20FPGA&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Kim%20Tae%20Hwan&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Embedded%20HW%2FFW%20%C2%B7%20Firmware%20%C2%B7%20FPGA&descAlignY=58&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=STM32+%2B+Qt+%EC%B0%A8%EB%9F%89+HMI+%EC%8B%9C%EC%8A%A4%ED%85%9C;Jetson+%E2%86%92+STM32+PCB+%EC%9E%90%EB%8F%99+%EC%84%A0%EB%B3%84;Linux+%EC%BB%A4%EB%84%90+%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4+%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84;AVR+%EC%B4%88%EC%9D%8C%ED%8C%8C+%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%EC%B0%A8;Verilog+FPGA+%EC%84%A4%EA%B3%84;%EB%A0%88%EC%A7%80%EC%8A%A4%ED%84%B0+%EB%A0%88%EB%B2%A8+%ED%8E%8C%EC%9B%A8%EC%96%B4+%EA%B0%9C%EB%B0%9C)](https://github.com/Tae86)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1300&color=2F6FD6&center=true&vCenter=true&width=620&lines=%EB%A0%88%EC%A7%80%EC%8A%A4%ED%84%B0+%EB%A0%88%EB%B2%A8+STM32+%ED%8E%8C%EC%9B%A8%EC%96%B4;%ED%9A%8C%EB%A1%9C%EC%99%80+%EC%BD%94%EB%93%9C+%EC%82%AC%EC%9D%B4%EC%97%90%EC%84%9C+%EC%9B%90%EC%9D%B8%EC%9D%84+%EC%B0%BE%EC%8A%B5%EB%8B%88%EB%8B%A4;Jetson+%E2%86%92+STM32+PCB+%EC%9E%90%EB%8F%99+%EC%84%A0%EB%B3%84;Verilog+I2C+Master%2FSlave+%2B+OLED;Linux+%EC%BB%A4%EB%84%90+%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4+%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84" alt="typing"/>
+
 </div>
 
 ## 👋 About Me
 
-- 🔧 **하드웨어에 가까운 소프트웨어**를 만드는 것을 좋아합니다. 레지스터를 직접 제어하는 펌웨어부터 Jetson 위에서 도는 AI까지 다룹니다.
-- 🎓 **AI 시스템반도체 SW개발자 2기** (대한상공회의소, 2026.05 ~ 2026.12 수료 예정) · 전자공학 전공
-- 🧪 "동작한다"에서 멈추지 않고, **안전성(Fail-safe)과 검증**까지 설계하려고 합니다.
-- 📫 fgufgus@gmail.com
+- 🔧 **하드웨어에 가까운 소프트웨어**를 만듭니다. 레지스터를 직접 다루는 MCU 펌웨어부터 FPGA, 리눅스 드라이버, Jetson 위의 판정 로직까지 다뤄 봤습니다.
+- 🔍 동작이 설계와 다를 때는 코드만 다시 보지 않고 **회로도·데이터시트·계측값**까지 확인 범위를 넓혀 원인을 찾습니다.
+- 🧪 "동작한다"에서 멈추지 않고 **Fail-safe와 검증**(단계별 단독 테스트, 시뮬레이션 선검증)까지 설계하려고 합니다.
+- 🎓 전자공학 학사 · **AI 시스템반도체 SW개발자 2기** (대한상공회의소, 2026.05 ~ 2026.12 수료 예정)
+- 🎯 **임베디드 HW/FW 신입** 포지션을 준비하고 있습니다.
+
+## 🗺 What I Work On
+
+<div align="center">
+<img src="assets/stack-map.png" width="100%" alt="signal to decision"/>
+</div>
 
 ## 🛠 Tech Stack
 
-<div align="center">
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-FF6F00?style=for-the-badge)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![AVR](https://img.shields.io/badge/AVR%20ATmega128-0072FF?style=for-the-badge)
-![FPGA](https://img.shields.io/badge/FPGA%20Basys3-0072FF?style=for-the-badge)
-![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+| | |
+|---|---|
+| **Language** | <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Verilog%20HDL-FF6F00?style=flat-square" alt="Verilog HDL"/> |
+| **MCU · Board** | <img src="https://img.shields.io/badge/STM32F411%20%28Cortex--M4%29-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32F411 (Cortex-M4)"/> <img src="https://img.shields.io/badge/ATmega128-0072FF?style=flat-square" alt="ATmega128"/> <img src="https://img.shields.io/badge/Basys3%20%28Artix--7%29-0072FF?style=flat-square" alt="Basys3 (Artix-7)"/> <img src="https://img.shields.io/badge/Jetson%20Orin%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Jetson Orin Nano"/> |
+| **Firmware** | <img src="https://img.shields.io/badge/Register--level-495057?style=flat-square" alt="Register-level"/> <img src="https://img.shields.io/badge/EXTI%20%C2%B7%20NVIC-495057?style=flat-square" alt="EXTI · NVIC"/> <img src="https://img.shields.io/badge/TIM%20%C2%B7%20PWM%20%C2%B7%20SysTick-495057?style=flat-square" alt="TIM · PWM · SysTick"/> <img src="https://img.shields.io/badge/DWT-495057?style=flat-square" alt="DWT"/> |
+| **Protocol** | <img src="https://img.shields.io/badge/UART-2F6FD6?style=flat-square" alt="UART"/> <img src="https://img.shields.io/badge/SPI-2F6FD6?style=flat-square" alt="SPI"/> <img src="https://img.shields.io/badge/I2C-2F6FD6?style=flat-square" alt="I2C"/> <img src="https://img.shields.io/badge/1--Wire%20%28DHT11%29-2F6FD6?style=flat-square" alt="1-Wire (DHT11)"/> |
+| **Linux · AI** | <img src="https://img.shields.io/badge/Linux%20Kernel%20Module-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux Kernel Module"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/> <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="TensorRT"/> |
+| **Tools** | <img src="https://img.shields.io/badge/Vivado-B22234?style=flat-square" alt="Vivado"/> <img src="https://img.shields.io/badge/arm--none--eabi--gcc-495057?style=flat-square" alt="arm-none-eabi-gcc"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Oscilloscope%20%C2%B7%20Multimeter-D99A1E?style=flat-square" alt="Oscilloscope · Multimeter"/> <img src="https://img.shields.io/badge/OrCAD%20%28%ED%95%99%EB%B6%80%29-D99A1E?style=flat-square" alt="OrCAD (학부)"/> |
 
 ## 🚀 Featured Projects
 
@@ -49,15 +45,32 @@
 | ⚙️ | **[DC Motor Controller](https://github.com/Tae86/stm32-motor-project)** | 팀 | L293 H-Bridge + 20kHz PWM · 숏/롱클릭 상태 제어 |
 | ✊ | **[Mini RPS](https://github.com/Tae86/jetson-rps-yolo-tensorrt)** | 개인 | YOLO → ONNX → TensorRT 온디바이스 가위바위보 |
 
-## 📊 GitHub Stats
+## 🔎 Troubleshooting Highlights
+
+> 증상 → 원인 → 해결을 기록해 두고 같은 문제를 반복하지 않으려고 합니다.
+
+| 프로젝트 | 증상 | 원인 | 해결 |
+|---|---|---|---|
+| [Qt-STM32 HMI](https://github.com/Tae86/Qt-STM32_HMI-Project) | 배선·코드가 정상인데 일부 모터만 동작 안 함 | PB13~15의 Arduino 헤더가 보드에서 **솔더브릿지로 기본 미연결** | 보드 회로도로 신호 경로를 추적해 Morpho 헤더에 직결 |
+| [BoardGuard](https://github.com/Tae86/pcb-defect-detection-boardguard) | 화면 지연이 시간이 지날수록 **최대 10초** 누적 | 추론 중 프레임을 읽지 않아 오래된 프레임이 버퍼에 쌓임 | 카메라 수신 스레드를 분리해 최신 프레임 1장만 유지 |
+| [F1 Reaction Game](https://github.com/Tae86/stm32-f1-reaction-game) | 반응이 1.31초를 넘으면 0ms로 기록 | TIM2를 16bit로 설정 (20µs × 65536) | 레퍼런스 매뉴얼로 **32bit 타이머**임을 확인해 확장 |
+| [FPGA Stopwatch](https://github.com/Tae86/fpga-minsec-stopwatch) | 보드에서 버튼 방향이 반대로 동작 | XDC의 Left/Center 핀 번호가 뒤바뀜 | 시뮬레이션으로 로직을 먼저 검증해 두고 보드 자료와 핀을 대조 |
+
+## 📅 Timeline
+
+| 시기 | 프로젝트 |
+|---|---|
+| 2026.06 | 🚙 AVR 초음파 자율주행차 (ATmega128) |
+| 2026.07 | 🏁 F1 반응속도 게임 (STM32) · ⚙️ DC 모터 컨트롤러 (팀) |
+| 2026.08 | 🚗 자동차 HMI 모사 시스템 (STM32 + Qt, 4인) |
+| 2026.09 | 🛡️ BoardGuard PCB 불량 탐지·선별 (Jetson + STM32, 4인) |
+| 2026.10 | 🌀 Linux 스마트 선풍기 (커널 드라이버, 5인) · ⏱️ FPGA 분/초 시계·스톱워치 |
+| 2026.11 | 🔗 FPGA I2C 센서 네트워크 + OLED |
+
+## 📫 Contact
+
+<a href="mailto:fgufgus@gmail.com"><img src="https://img.shields.io/badge/Gmail-fgufgus%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tae86&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tae86&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=90&section=footer" width="100%"/>
 </div>
