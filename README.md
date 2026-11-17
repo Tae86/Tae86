@@ -44,6 +44,7 @@
 | 🚙 | **[AVR Autonomous Car](https://github.com/Tae86/avr-ultrasonic-autonomous-car)** | 개인 제작 | ATmega128 · 초음파 3채널 장애물 회피 FSM · 블루투스 수동/자율 모드 |
 | 🏁 | **[F1 Reaction Game](https://github.com/Tae86/stm32-f1-reaction-game)** | 개인 | WS2812B RGB(DWT 타이밍) · SysTick 논블로킹 상태머신 · TIM2 32bit 반응시간 측정 |
 | ⏱️ | **[FPGA Stopwatch](https://github.com/Tae86/fpga-minsec-stopwatch)** | 개인 | Basys3 Verilog 3상태 FSM · 2단 FF 동기화 · 시뮬레이션 선검증 |
+| 🔗 | **[FPGA I2C Sensor + OLED](https://github.com/Tae86/fpga-i2c-sensor-oled)** | 개인 | Basys3 2장 I2C Master/Slave · byte 엔진 + 시나리오 분리 · SSD1306 OLED 드라이버 · 테스트벤치 4종 |
 | 🌀 | **[Linux Smart Fan](https://github.com/Tae86/linux-jetson-smart-fan)** | 5인 · 드라이버 2종 | Jetson 커널 드라이버 · BMP180(I2C)·LED BAR(platform) 드라이버 담당 |
 | ⚙️ | **[DC Motor Controller](https://github.com/Tae86/stm32-motor-project)** | 팀 | L293 H-Bridge + 20kHz PWM · 숏/롱클릭 상태 제어 |
 | ✊ | **[Mini RPS](https://github.com/Tae86/jetson-rps-yolo-tensorrt)** | 개인 | YOLO → ONNX → TensorRT 온디바이스 가위바위보 |
